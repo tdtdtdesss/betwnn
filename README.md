@@ -1,11 +1,7 @@
 <h1>🎰 Betwoon – En İyi Bahis ve Casino Deneyimi! 💰🔥</h1>
 
 <a href="https://cutt.ly/BetwoonLink" title="Betwoon">
-  <img src="https://i.ibb.co/YjtLwQ8/cats.jpg" alt="Betwoon" style="max-width: 100%; border: 3px solid #ff4500; border-radius: 15px; box-shadow: 0px 0px 15px rgba(255, 69, 0, 0.8);">
-</a>
-
-<a href="https://cutt.ly/BetwoonLink" title="Betwoon Casino">
-  <img src="https://i.ibb.co/VHdrjnQ/df.jpg" alt="Betwoon Casino" style="max-width: 100%; border: 3px solid #ff4500; border-radius: 15px; box-shadow: 0px 0px 15px rgba(255, 69, 0, 0.8);">
+  <img src="https://i.ibb.co/BtMhhf6/g-venligiris.jpg" alt="Betwoon" style="max-width: 100%; border: 3px solid #ff4500; border-radius: 15px; box-shadow: 0px 0px 15px rgba(255, 69, 0, 0.8);">
 </a>
 
 <h2>🚀 Betwoon Avantajları</h2>
